@@ -1,0 +1,1 @@
+KeymanWeb.KRS(new Stub_Keyboard_lekhani()); function Stub_Keyboard_lekhani() {this.KF="lekhani-1.0.js";this.KI="Keyboard_lekhani";this.KN="Lekhani";}
